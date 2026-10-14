@@ -70,6 +70,9 @@ Refer to the code for the exact mouse and keyboard controls.
 - Improve the user interface and controls
 - Add a comparison of algorithm performance
 
+##📸 Project Demo
+Here is a screenshot of the Path Finder Visualizer output:
+
 ## 👨‍💻 Author
 
 **Shripadcoder**
