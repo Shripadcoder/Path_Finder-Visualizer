@@ -72,6 +72,7 @@ Refer to the code for the exact mouse and keyboard controls.
 
 ## 📸 Project Demo
 -Here is a screenshot of the Path Finder Visualizer output:
+![Path Finder Visualizer Output](screenshots/pathfinder_output.png)
 
 ## 👨‍💻 Author
 
